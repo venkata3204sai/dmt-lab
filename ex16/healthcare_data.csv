@@ -1,0 +1,7 @@
+Patient_ID,Age,Gender,Visits,Medication,Region,Cost
+1,45,Male,3,Drug A,North,3000
+2,60,Female,4,Drug B,South,4500
+3,50,Male,2,Drug C,East,2000
+4,30,Female,1,Drug A,West,1500
+5,70,Male,5,Drug B,North,5000
+6,55,Female,2,Drug C,South,2500
